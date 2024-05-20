@@ -1,1 +1,1 @@
-console.log('Product model js')
+console.log('Product model js, that ok')
